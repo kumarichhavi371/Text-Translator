@@ -28,12 +28,6 @@ Install dependencies
 
 npm install
 
-
-Create a .env file in the root folder and add your RapidAPI key:
-
-VITE_RAPID_API_KEY=your_api_key_here
-
-
 Run the app
 
 npm run dev
