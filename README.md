@@ -1,16 +1,58 @@
-# React + Vite
+🌍 Text Translator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and fast Text Translator App built with React, Tailwind CSS, and RapidAPI.
+It allows users to translate text between multiple languages instantly with a clean, responsive UI.
 
-Currently, two official plugins are available:
+🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🔤 Translate text into multiple languages
 
-## React Compiler
+🌐 Powered by RapidAPI Translation API
 
-The React Compiler is not enabled on this template. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+⚡ Fast and seamless performance
 
-## Expanding the ESLint configuration
+📱 Responsive design with Tailwind CSS
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🎨 Minimal & user-friendly UI
+
+🛠️ Tech Stack
+
+Frontend: React
+
+Styling: Tailwind CSS
+
+API: RapidAPI (Translation API)
+
+
+Install dependencies
+
+npm install
+
+
+Create a .env file in the root folder and add your RapidAPI key:
+
+VITE_RAPID_API_KEY=your_api_key_here
+
+
+Run the app
+
+npm run dev
+
+
+🔑 API Reference
+
+This project uses RapidAPI Translation API
+
+Make sure you sign up, get your API key, and set it in .env.
+
+🤝 Contributing
+
+Contributions are always welcome!
+
+Fork the repo
+
+Create a new branch
+
+Commit your changes
+
+Submit a pull request
